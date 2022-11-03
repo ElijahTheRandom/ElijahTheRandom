@@ -1,6 +1,8 @@
-I am Elijah,
+I am Elijah!
 
-LOVE Python!!
-Learning Java and Web Development!
+> Computer Science Student
+> Love Python
+> Always Looking into Something New
 
-(kinda suck at it all tho)
+
+My Github is a fun time capsule of my projects through the years.
